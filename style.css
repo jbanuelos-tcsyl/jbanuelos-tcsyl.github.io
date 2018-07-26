@@ -7,7 +7,7 @@
     height: 10vh;
     background-color: blue
 }
-
+/* Left Right and Bottom */
 .bottomDiv{
     position: fixed;
     bottom: 0;
@@ -25,7 +25,7 @@
     right: 0;
     width: 100%;
 }
-
+/* Other */
 .offRed{
     color: rgb(241, 19, 19);
 }

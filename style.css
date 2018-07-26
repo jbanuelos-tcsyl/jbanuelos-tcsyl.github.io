@@ -1,0 +1,35 @@
+/* Everything */
+.theme{
+    background-color: red
+}
+/* Sizes */
+.arrowSize{
+    height: 10vh;
+    background-color: blue
+}
+
+.bottomDiv{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.left{
+    position: fixed;
+    left: 0;
+    width: 100%;
+}
+
+.right{
+    position: fixed;
+    right: 0;
+    width: 100%;
+}
+
+.offRed{
+    color: rgb(241, 19, 19);
+}
+
+.topSpace {
+    margin-top: 34.789vh;
+}

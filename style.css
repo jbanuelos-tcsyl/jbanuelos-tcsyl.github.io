@@ -25,11 +25,22 @@
     right: 0;
     width: 100%;
 }
-/* Other */
+
+/* Arrows */
+.arrowleft{
+    transform: rotate(270deg)
+}
+.arrowright{
+    transform: rotate(90deg)
+}
+.arrowdown{
+    transform: rotate(180deg)
+}
+/* Colors */
 .offRed{
     color: rgb(241, 19, 19);
 }
-
+/* Other */
 .topSpace {
     margin-top: 34.789vh;
 }
